@@ -13,30 +13,40 @@ Goal: Reduce delays, optimize manpower utilization, and improve airport efficien
 Airports manage:
 
 High flight volume
+
 Multiple terminals
+
 Limited manpower
 
 
 Poor manpower allocation causes:
 
 Increased delays
+
 Higher operational risk
+
 Staff workload imbalance
 
 
 This project answers:
 
 What is happening? → KPIs
+
 Where are delays? → Terminal analysis
+
 Why do delays increase? → Workload vs Delay
+
 When does workload peak? → Time trends
 
 
 **Tools Used**
 
 Power BI – Dashboards, KPIs, DAX, slicers
+
 SQL – Data joins, workload & delay analysis
+
 Python (Jupyter) – Data cleaning & EDA
+
 CSV Dataset – Airport operations data
 
 
@@ -60,21 +70,29 @@ airport_analysis.csv
 KPI Summary
 
 Total Flights
+
 Total Workload (Minutes)
+
 Average Delay
+
 High-Risk Flight %
 
 Key Insights
 
 Workload & delay by terminal
+
 Aircraft type vs delay
+
 Risk distribution
+
 Workload vs Delay correlation
 
 Advanced Features
 
 Scatter chart with trend line
+
 Time-series analysis with moving average
+
 Interactive slicers (Terminal, Aircraft, Date, Risk)
 
 **Analytics Story Flow**
@@ -83,7 +101,10 @@ KPIs → Terminal Analysis → Root Cause → Trends → What-If Scenarios
 
 **Business Impact**
 Identifies delay-prone terminals
+
 Supports manpower forecasting
+
 Improves resource utilization
+
 Enables data-driven airport decisions
 
