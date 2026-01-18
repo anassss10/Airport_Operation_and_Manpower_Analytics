@@ -102,6 +102,7 @@ KPIs → Terminal Analysis → Root Cause → Trends → What-If Scenarios
 
 
 **Business Impact**
+
 Identifies delay-prone terminals
 
 Supports manpower forecasting
