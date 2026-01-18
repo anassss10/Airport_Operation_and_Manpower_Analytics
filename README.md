@@ -10,7 +10,7 @@ Goal: Reduce delays, optimize manpower utilization, and improve airport efficien
 **Business Problem**
 
 
-Airports manage:
+**Airports manage:**
 
 High flight volume
 
@@ -19,7 +19,7 @@ Multiple terminals
 Limited manpower
 
 
-Poor manpower allocation causes:
+**Poor manpower allocation causes:**
 
 Increased delays
 
@@ -28,7 +28,7 @@ Higher operational risk
 Staff workload imbalance
 
 
-This project answers:
+**This project answers:**
 
 What is happening? → KPIs
 
@@ -95,9 +95,11 @@ Time-series analysis with moving average
 
 Interactive slicers (Terminal, Aircraft, Date, Risk)
 
+
 **Analytics Story Flow**
 
 KPIs → Terminal Analysis → Root Cause → Trends → What-If Scenarios
+
 
 **Business Impact**
 Identifies delay-prone terminals
