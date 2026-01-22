@@ -77,7 +77,8 @@ Average Delay
 
 High-Risk Flight %
 
-Key Insights
+
+**Key Insights**
 
 Workload & delay by terminal
 
@@ -87,7 +88,8 @@ Risk distribution
 
 Workload vs Delay correlation
 
-Advanced Features
+
+**Advanced Features**
 
 Scatter chart with trend line
 
